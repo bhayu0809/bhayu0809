@@ -169,7 +169,7 @@ I am comfortable working on systems where **accuracy, consistency, and maintaina
 ## 📫 Contact
 
 - GitHub: [@bhayu0809](https://github.com/bhayu0809)
-- LinkedIn: [https://www.linkedin.com/in/bayu-nugroho-28810011a/](https://www.linkedin.com/in/bayu-nugroho-28810011a/)
+- LinkedIn: [https://www.linkedin.com/in/bayu-nugroho-28810011a/](https://www.linkedin.com/in/bayunugroho0809/)
 - Email: bhayunugroho0809@gmail.com
 
 ---
