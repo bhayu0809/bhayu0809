@@ -168,9 +168,9 @@ I am comfortable working on systems where **accuracy, consistency, and maintaina
 
 ## 📫 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
-- Email: your@email.com
+- GitHub: [@bhayu0809](https://github.com/bhayu0809)
+- LinkedIn: [https://www.linkedin.com/in/bayu-nugroho-28810011a/](https://www.linkedin.com/in/bayu-nugroho-28810011a/)
+- Email: bhayunugroho0809@gmail.com
 
 ---
 
